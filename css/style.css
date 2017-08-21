@@ -1,0 +1,33 @@
+body {
+  background-color: #ccc; /*для контраста */
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+  font-weight: 700;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+.main-header2 {
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 700;
+  color: #000;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+.content-goods-descript {
+  font-size: 14px;
+  line-height: 18px;
+  color: #000;
+  font-weight: 700;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+.catalog-item-description li {
+  list-style: url("../img/breadcrumbs-icon.svg");
+}
+
