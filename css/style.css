@@ -5,6 +5,7 @@ body {
   color: #000;
   font-weight: 700;
   font-family: "PT Sans Narrow", sans-serif;
+  text-transform: uppercase;
 }
 
 .main-header2 {
@@ -13,6 +14,7 @@ body {
   font-weight: 700;
   color: #000;
   font-family: "PT Sans Narrow", sans-serif;
+  text-transform: uppercase;
 }
 
 .content-goods-descript {
@@ -21,6 +23,7 @@ body {
   color: #000;
   font-weight: 700;
   font-family: "PT Sans Narrow", sans-serif;
+  text-transform: uppercase;
 }
 
 li {
